@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name's Allaa Boutaleb. I'm a final year Master's student in data science and AI at Sorbonne University : Sciences and Engineering.
+
+As an aspiring Data Scientist keen on leveraging my aptitude for data mining, statistical analysis, machine learning, and natural language processing, I am actively seeking a 6-month end-of-studies internship opportunity. I thrive on tackling complex challenges requiring a precise and adaptable approach. Motivated to apply my skills in a dynamic professional environment, I am eager to contribute to developing impactful, data-driven solutions that address real-world issues and foster positive change.
+
+
 <!--
 **Allaa-boutaleb/Allaa-boutaleb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
