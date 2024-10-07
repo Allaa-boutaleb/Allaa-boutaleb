@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name's Allaa Boutaleb. I'm a final year Master's student in data science and AI at Sorbonne University : Sciences and Engineering.
-Currently, I'm doing my end-of-studies internship as an AI/NLP Engineer at Rte France.
+I'm currently preparing a PhD within the databases team at LIP6 - Sorbonne University. Previously, I've worked as an AI/NLP Engineer at Rte France.
+
 
 
 <!--
